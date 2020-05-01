@@ -6,7 +6,7 @@ export const Container = styled.div`
 `;
 
 export const Main = styled.main`
-  max-height: 1348px;
+  height: 1348px;
   padding: 40px 80px;
   background: url(${backgroundImage});
   background-size: cover;
@@ -17,7 +17,7 @@ export const Main = styled.main`
     position: absolute;
     top: 0;
     left: 0;
-    max-height: 1348px;
+    height: 1348px;
     width: 100%;
     z-index: 1;
     background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%);
@@ -106,3 +106,6 @@ export const SignUpButton = styled.button`
   border: 0;
 `;
 
+export const EnjoyTv = styled.div`
+  height: 1000px;
+`;

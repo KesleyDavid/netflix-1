@@ -2,7 +2,7 @@ import React from 'react';
 
 import logo from '../../assets/logo.svg';
 
-import { Container, Header, Button, Main, HeaderContent, SignUp, Input, SignUpButton } from './styles';
+import { Container, Header, Button, Main, HeaderContent, SignUp, Input, SignUpButton, EnjoyTv } from './styles';
 
 const Home: React.FC = props => {
   return (
@@ -26,6 +26,11 @@ const Home: React.FC = props => {
           <p>Pronto para assistir? Informe seu email para criar ou acessar sua conta.</p>
         </HeaderContent>
       </Main>
+
+
+      <EnjoyTv>
+
+      </EnjoyTv>
     </Container>
   );
 }
