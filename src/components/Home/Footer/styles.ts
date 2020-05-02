@@ -1,10 +1,6 @@
 import styled from 'styled-components';
 
-export const Container = styled.div`
-  height: 100vh;
-`;
-
-export const Footer = styled.footer`
+export default styled.footer`
   border-top: 10px solid #222;
 
   height: 600px;
