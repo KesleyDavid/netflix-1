@@ -5,10 +5,10 @@ import { FiCheck, FiX } from 'react-icons/fi';
 import {
   Container,
   Content,
-  PlanBlocks,
-  PBText,
-  Detail,
-  DetailText,
+  // PlanBlocks,
+  // PBText,
+  // Detail,
+  // DetailText,
 } from './styles';
 
 const Plans: React.FC = () => (
