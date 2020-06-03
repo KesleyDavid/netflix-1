@@ -32,6 +32,8 @@ export const FAQ = styled.div`
     height: 110px;
     width: 100%;
     padding: 0 40px;
+    align-items: center;
+    justify-content: center;
 
     h1 {
       color: white;

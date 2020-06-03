@@ -39,8 +39,8 @@ export const WatchGif = styled.div`
   video {
     position: absolute;
     width: 400px;
-    right: 15%;
-    top: 277%;
+    right: 17%;
+    top: 254%;
     z-index: 1;
   }
 `;

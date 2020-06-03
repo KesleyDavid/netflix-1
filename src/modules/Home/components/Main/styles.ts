@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import backgroundImage from '../../../assets/painel.jpeg';
+import backgroundImage from '../../../../assets/painel.jpeg';
 
 export const Main = styled.main`
   height: 1348px;

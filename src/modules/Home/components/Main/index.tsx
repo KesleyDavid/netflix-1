@@ -10,7 +10,7 @@ import {
   SignUpButton,
 } from './styles';
 
-import logo from '../../../assets/logo.svg';
+import logo from '../../../../assets/logo.svg';
 
 const MainComponent: React.FC = () => {
   return (

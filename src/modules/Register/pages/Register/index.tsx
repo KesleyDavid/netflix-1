@@ -1,10 +1,10 @@
 import React from 'react';
 
-import Header from '../../components/Register/Header';
-import Footer from '../../components/Register/Footer';
+import Header from '../../components/Header';
+import Footer from '../../components/Footer';
 
 // import ChooseYourPlan from '../../components/Register/ChooseYourPlan';
-import Plans from '../../components/Register/Plans';
+import Plans from '../../components/Plans';
 
 import { Container } from './styles';
 
